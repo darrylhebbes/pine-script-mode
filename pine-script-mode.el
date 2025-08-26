@@ -7,7 +7,7 @@
 ;; Version: 3.5.4
 ;; Keywords: extensions, pinescript
 ;; Package-Requires: ((emacs "24"))
-;; URL: https://github.com/ericcrosson/pine-script-mode
+;; URL: https://github.com/darrylhebbes/pine-script-mode
 ;;
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
