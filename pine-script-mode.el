@@ -3,8 +3,9 @@
 ;;; Copyright (C) 2018  Free Software Foundation, Inc.
 ;;
 ;;; Author: Eric Crosson <eric.s.crosson@utexas.edu>
+;; Maintainer: Darryl Hebbes <darryl.hebbes@gmail.com>
 ;; Version: 3.5.4
-;; Keywords: extensions
+;; Keywords: extensions, pinescript
 ;; Package-Requires: ((emacs "24"))
 ;; URL: https://github.com/ericcrosson/pine-script-mode
 ;;
